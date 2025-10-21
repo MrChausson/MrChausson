@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently studying at Epitech<br>👍 Loves Devops and programming
+🔭 Studied at Epitech<br>🔥 Devops & Cloud Native Enjoyer
 
 
 ## 🌐 Socials:
